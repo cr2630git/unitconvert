@@ -1,5 +1,5 @@
-from unitconvert.unitconvert import temperature
-from unitconvert.unitconvert import distance
+from unitconvert import temperature
+from unitconvert import distance
 
 def test_unitconvert():
     #Include some known results
