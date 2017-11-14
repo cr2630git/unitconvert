@@ -37,4 +37,4 @@ def celsius_to_fahrenheit(temp_in_c):
 		The same temperature converted to degrees Fahrenheit.
 	"""
 
-	return (5/9*temp_in_c)+32
+	return (9/5*temp_in_c)+32
