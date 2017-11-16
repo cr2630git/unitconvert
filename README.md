@@ -1,4 +1,4 @@
-Simple functions to convert temperature and distance
+Simple functions to convert temperature & distance
 
 Author: Colin Raymond
 
